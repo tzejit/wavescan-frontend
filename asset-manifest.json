@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wavescan-frontend/static/css/main.c5b44fde.css",
+    "main.js": "/wavescan-frontend/static/js/main.cc5cbfb3.js",
+    "static/js/787.86ee30d3.chunk.js": "/wavescan-frontend/static/js/787.86ee30d3.chunk.js",
+    "index.html": "/wavescan-frontend/index.html",
+    "main.c5b44fde.css.map": "/wavescan-frontend/static/css/main.c5b44fde.css.map",
+    "main.cc5cbfb3.js.map": "/wavescan-frontend/static/js/main.cc5cbfb3.js.map",
+    "787.86ee30d3.chunk.js.map": "/wavescan-frontend/static/js/787.86ee30d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5b44fde.css",
+    "static/js/main.cc5cbfb3.js"
+  ]
+}
